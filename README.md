@@ -22,7 +22,9 @@ struct student {
 };
 
 int main(void) {
-    struct about_me joburgos = {
+    };
+
+    struct student my_studies = {
         .name = "José Ángel Burgos Mellado",
         .pronouns = {"he", "him"},
         .age = 47,
@@ -30,10 +32,6 @@ int main(void) {
         .hired = true,
         .contact = "disenosuweb@gmail.com",
         .website_url = "https://www.abcreationes.es"
-    };
-
-    struct student my_studies = {
-        .name = "José Ángel Burgos Mellado",
         .is_student = true,
         .status = {"42 Student", "Freelance", "Abcreations"},
         .campus_42 = "Málaga",
