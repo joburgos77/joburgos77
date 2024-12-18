@@ -33,6 +33,7 @@ int main(void) {
     };
 
     struct student my_studies = {
+        .name = "José Ángel Burgos Mellado",
         .is_student = true,
         .status = {"42 Student", "Freelance", "Abcreations"},
         .campus_42 = "Málaga",
