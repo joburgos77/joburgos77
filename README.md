@@ -1,6 +1,6 @@
 ![Developer](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Hi+There%2C++I'm+joburgos+;alias+Angel!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Hi+There%2C++I'm+Angel;alias+joburgos+at+Campus+42!)](https://git.io/typing-svg)
 <h3>I'm webdesigner since 2010, now at 42 Campus to improve my skills!</h3>
 
 #include <stdbool.h>
