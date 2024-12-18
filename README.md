@@ -1,3 +1,5 @@
+![Developer](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 ## Hi there, I' am [joburgos alias "Ángel"] 👋
 <h3>I'm webdesigner since 2010, now at 42 Campus to improve my skills!</h3>
 
@@ -32,7 +34,7 @@ int main(void)
 
 ## 🛠️ Habilidades
 - Lenguajes: **C**
-- Tecnologías: HTML/CSS, Bootstrap, Git, SQL, Wordpress, Prestashop, Photoshop, Illustrator, Canva, Google Ads, Facebook Ads
+- Tecnologías: HTML/CSS, Bootstrap, Git, SQL, Wordpress, Prestashop, Joomla, Magento, Photoshop, Illustrator, Canva, Google Ads, Facebook Ads
 - Otros: Gestión de proyectos, diseño web, Marketing Digital, Diseño Gráfico, Análisis de Datos, Branding
 
   ## 🚀 Tecnologías y Herramientas
