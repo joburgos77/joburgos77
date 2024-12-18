@@ -29,7 +29,7 @@ int main(void)
 ## 🚀 What i am doing right now in Campus 42!
 - 🌱 Learning: **C**, **Shell**
 - 💼 Working on: [C]
-- 📫 Contact me: [disenosuweb@gmail.com] | [[tu LinkedIn](https://www.linkedin.com/in/abcreations/)] | [https://abcreations.es]
+- 📫 Contact me: [disenosuweb@gmail.com] | [(https://www.linkedin.com/in/abcreations/)] | [https://abcreations.es]
 - 😄 Pronombres: he/him
 
 ## 🛠️ Habilidades
