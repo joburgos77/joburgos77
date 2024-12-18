@@ -1,6 +1,8 @@
 ## Hi there, I' am joburgos alias "Ángel" 👋
 <h3>I'm webdesigner since 2010, now at 42 Campus to improve my skills!</h3>
+
 #include <stdbool.h>
+    
 int main(void)
 {
     struct student my_studies = {
