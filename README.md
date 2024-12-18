@@ -12,14 +12,14 @@ int  main(void)
       .hired = true,
       .contact = "disenosuweb@gmail.com"
       .website_url = "https://www.abcreationes.es"
-    };
+    }
 
     struct  student my_studies = {
       .is_student = true,
       .status = {"42 Student", "Freelance", "Abcreations"},
       .campus_42 = "Málaga",
       .login_42 = "joburgos",
-    };
+    }
 
     return (0);
 }
