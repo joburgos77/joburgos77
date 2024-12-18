@@ -1,7 +1,6 @@
 ![Developer](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-## Hi there, I' am [joburgos alias "Ángel"] 👋 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There%2C++i+am+joburgos+alias+%22Angel%22" alt="Typing SVG" /></a>
+👋 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There%2C++i+am+joburgos+alias+%22Angel%22" alt="Typing SVG" /></a>
 <h3>I'm webdesigner since 2010, now at 42 Campus to improve my skills!</h3>
 
 #include <stdbool.h>
