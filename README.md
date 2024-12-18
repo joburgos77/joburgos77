@@ -37,6 +37,12 @@ int main(void)
 - Tecnologías: HTML/CSS, Bootstrap, Git, SQL, Wordpress, Prestashop, Photoshop, Illustrator, Canva, Google Ads, Facebook Ads
 - Otros: Gestión de proyectos, diseño web, Marketing Digital, Diseño Gráfico, Análisis de Datos, Branding
 
+  ## 🚀 Tecnologías y Herramientas
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
 ## 🌐 Encuéntrame en:
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/abcreations)
 - [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)]([https://tusitio.com](https://www.abcreations.es/portfolio/))
