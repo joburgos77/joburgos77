@@ -25,4 +25,7 @@ int main(void)
 <h3>More about me</h3>
 <p>Since 2010 I have been a freelance professional web designer. Since then I have carried out more than 300 web projects for all types of clients. In addition to being specialized in natural web positioning with SEO, SEM and social media management, my passion is graphic design, brand and product design, web design in general has marked my path throughout these years and now as a student from <a href="http://42malaga.com/" rel="nofollow">Campus 42 Malaga</a>, I hope to be able to learn to develop more and better with new tools and knowledge that will help me improve every day.</p>
 
+## 📊 Estadísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joburgos77&show_icons=true&theme=radical)
+
 
