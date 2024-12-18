@@ -1,24 +1,6 @@
 ## Hi there, I' am joburgos alias "Ángel" 👋
 <h3>I'm webdesigner since 2010, now at 42 Campus to improve my skills!</h3>
 #include <stdbool.h>
-    
-struct about_me {
-    char *name;
-    char *pronouns[2];
-    int age;
-    bool student;
-    bool hired;
-    char *contact;
-    char *website_url;
-};
-
-struct student {
-    bool is_student;
-    char *status[3];
-    char *campus_42;
-    char *login_42;
-};
-
 int main(void)
 {
     struct student my_studies = {
@@ -33,6 +15,7 @@ int main(void)
         .status = {"42 Student", "Freelance", "Abcreations"},
         .campus_42 = "Málaga",
         .login_42 = "joburgos"
+     };
     return 0;
 };
 
