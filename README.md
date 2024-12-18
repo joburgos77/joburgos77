@@ -36,7 +36,7 @@ int main(void)
         .campus_42 = "Málaga",
         .login_42 = "joburgos"
     return 0;
-}
+};
 
 
 <h3>More about me</h3>
