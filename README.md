@@ -21,9 +21,8 @@ struct student {
     char *login_42;
 };
 
-int main(void) {
-    };
-
+int main(void)
+{
     struct student my_studies = {
         .name = "José Ángel Burgos Mellado",
         .pronouns = {"he", "him"},
@@ -36,8 +35,6 @@ int main(void) {
         .status = {"42 Student", "Freelance", "Abcreations"},
         .campus_42 = "Málaga",
         .login_42 = "joburgos"
-    };
-
     return 0;
 }
 
