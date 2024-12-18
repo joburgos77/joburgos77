@@ -33,9 +33,9 @@ int main(void)
 - 😄 Pronombres: he/him
 
 ## 🛠️ Habilidades
-- Lenguajes: **C**, **Python**, **JavaScript**
-- Tecnologías: Docker, Git, SQL, HTML/CSS
-- Otros: Gestión de proyectos, diseño web
+- Lenguajes: **C**
+- Tecnologías: HTML/CSS, Bootstrap, Git, SQL, Wordpress, Prestashop, Photoshop, Illustrator, Canva, Google Ads, Facebook Ads
+- Otros: Gestión de proyectos, diseño web, Marketing Digital, Diseño Gráfico, Análisis de Datos, Branding
 
 ## 🌐 Encuéntrame en:
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/abcreations)
