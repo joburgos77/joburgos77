@@ -26,10 +26,6 @@
 ## Sumario:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joburgos77&theme=aura_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joburgos77&theme=aura_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joburgos77&theme=aura_dark)
-
 ## 🌐 Encuéntrame en:
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/abcreations)
 - [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)]([https://tusitio.com](https://www.abcreations.es/portfolio/))
