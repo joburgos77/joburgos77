@@ -13,8 +13,8 @@
 
 ## 🛠️ Habilidades
 - Lenguajes: **C**
-- Tecnologías: HTML/CSS, Bootstrap, Git, SQL, Wordpress, Prestashop, Joomla, Magento, Photoshop, Illustrator, Canva, Google Ads, Facebook Ads
-- Otros: Gestión de proyectos, diseño web, Marketing Digital, Diseño Gráfico, Análisis de Datos, Branding
+- Tecnologías: HTML/CSS, Bootstrap, Git, MySQL, Wordpress, Prestashop, Joomla, Magento, Photoshop, Illustrator, Adobe Suite, Express, Canva, Google Ads, Facebook Ads...
+- Otros: Gestión de proyectos y equipos de trabajo, Diseño Web, Marketing Digital (SEO, SEM & SMO), Análisis de Datos, Diseño Gráfico, Branding...
 
   ## 🚀 Tecnologías y Herramientas
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
