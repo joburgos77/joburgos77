@@ -11,22 +11,22 @@
 - 🌱 Learning: **C**, **Shell**
 - 💼 Working on: [C]
 
-## 🛠️ Habilidades
-- Lenguajes: **C**
-- Tecnologías: HTML/CSS, Bootstrap, Git, MySQL, Wordpress, Prestashop, Joomla, Magento, Photoshop, Illustrator, Adobe Suite, Express, Canva, Google Ads, Facebook Ads...
-- Otros: Gestión de proyectos y equipos de trabajo, Diseño Web, Marketing Digital (SEO, SEM & SMO), Análisis de Datos, Diseño Gráfico, Branding...
+## 🛠️ Skills
+- Languages: **C**
+- Technologies: HTML/CSS, Bootstrap, Git, MySQL, Wordpress, Prestashop, Joomla, Magento, Photoshop, Illustrator, Adobe Suite, Express, Canva, Google Ads, Facebook Ads...
+- Others: Project and work team management, Web Design, Digital Marketing (SEO, SEM & SMO), Data Analysis, Graphic Design, Branding...
 
-  ## 🚀 Tecnologías y Herramientas
+  ## 🚀 Technologies and Tools
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📊 Estadísticas
+## 📊 Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joburgos77&show_icons=true&theme=radical)
 
-## Sumario:
+## Sumary:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joburgos77&theme=aura_dark)
 
-## 🌐 Encuéntrame en:
+## 🌐 Found me:
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/abcreations)
 - [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)]([https://tusitio.com](https://www.abcreations.es/portfolio/))
 
