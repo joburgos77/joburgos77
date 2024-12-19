@@ -27,6 +27,9 @@
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/abcreations)
 - [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)]([https://tusitio.com](https://www.abcreations.es/portfolio/))
 
+## Sumario:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joburgos77&theme=aura_dark)
+
 ## 📫 Contact me: [disenosuweb@gmail.com] | [(https://www.linkedin.com/in/abcreations/)] | [https://abcreations.es]
 
 
