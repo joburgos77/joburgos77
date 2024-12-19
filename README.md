@@ -12,7 +12,7 @@
 - 💼 Working on: [C]
 
 ## 🛠️ Skills
-- Languages: **C**
+- Languages: **C**, **Html5**, **CSS3** 
 - Technologies: HTML/CSS, Bootstrap, Git, MySQL, Wordpress, Prestashop, Joomla, Magento, Photoshop, Illustrator, Adobe Suite, Express, Canva, Google Ads, Facebook Ads...
 - Others: Project and work team management, Web Design, Digital Marketing (SEO, SEM & SMO), Data Analysis, Graphic Design, Branding...
 
